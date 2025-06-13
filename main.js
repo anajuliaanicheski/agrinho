@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "Como o campo contribui para a cidade?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                texto: "O campo fornece alimentos, matérias-primas e recursos naturais à cidade, como alimentos frescos, água e energia, e contribui para a segurança alimentar e o desenvolvimento econômico.",
+                afirmacao: "<b>Organização</b> ."
             },
             {
                 texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
@@ -19,10 +19,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "Quais as principais atividades ecônomicas no campo?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
+                texto: "A agricultura,pecuària,sivicultura,e pesca sâo as principais atividades economicas do campo.",
                 afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
             },
             {
